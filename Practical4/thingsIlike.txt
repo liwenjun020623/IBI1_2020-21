@@ -1,4 +1,18 @@
-
-I like dogs
-I like sun
-I like noodles
+<<<<<<< HEAD
+I like films.
+I like cats.
+I like apples.
+=======
+I like my toys.
+I like singing.
+I like shopping.
+>>>>>>> dudududu
+I like playing mobile games.
+I like rain.
+I like milktea.
+I like my family very much.
+I like swimming.
+I like sleeping.
+I don't like running.
+I like sugar.
+I like coffee.
